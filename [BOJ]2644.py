@@ -28,4 +28,3 @@ def bfs():
     return -1
 
 print(bfs())
-print(relation)
